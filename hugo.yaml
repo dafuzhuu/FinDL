@@ -1,0 +1,14 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: FinDL
+theme: hugo-book
+
+languages:
+  en:
+    languageName: English
+    contentDir: content.en
+    weight: 1
+  zh:
+    languageName: Chinese
+    contentDir: content.zh
+    weight: 2
