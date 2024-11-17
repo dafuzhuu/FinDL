@@ -3,7 +3,6 @@ languageCode: en-us
 title: FinDL
 theme: hugo-book
 
-relativeURLs: true
 languages:
   en:
     languageName: English
