@@ -28,11 +28,11 @@ This is a manual about the usage of deep learning in quant, written for members 
 ## Usage in Finance
 
 - Books
-  - [Deep Learning for Finance](/pdf/_index/Deep_Learning_for_Finance.pdf)
+  - [Deep Learning for Finance](pdf/_index/Deep_Learning_for_Finance.pdf)
   - [Machine Learning for Algorithmic Trading](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original)
 - Papers
   - DFQ
 
 ## References
 
-- [QUANT ROADMAP](/pdf/_index/RoadmapUltimateEdition.pdf)
+- [QUANT ROADMAP](pdf/_index/RoadmapUltimateEdition.pdf)
