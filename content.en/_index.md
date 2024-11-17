@@ -9,15 +9,14 @@ This is a manual about the usage of deep learning in quant, written for members 
 
 ## Basics
 
+### Machine Learning
+
 - [Hands-on Machine Learning](https://hml.boyuai.com/books)
 - [Whiteboard Derivations of ML](https://www.bilibili.com/video/BV1aE411o7qd/?spm_id_from=333.1387.0.0)
   - [Notes](https://github.com/dafuzhuu/MachineLearningNotes)
 - [Machine Learning - Hongyi Li](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)
   - [Notes](https://github.com/datawhalechina/leedl-tutorial)
 - [Dive into Deep Learning](https://zh.d2l.ai/)
-
-## Advanced
-
 - [Stanford CS224N: NLP with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [SJTU - Dive into LLMs](https://github.com/Lordog/dive-into-llms)
 - [Standford CS231n: Deep Learning for CV](https://cs231n.stanford.edu/)
@@ -25,13 +24,22 @@ This is a manual about the usage of deep learning in quant, written for members 
 - [Hands-on Reinforcement Learning](https://hrl.boyuai.com/chapter/intro)
 - [Deep Reinforcement Learning - Shusen Wang](https://www.bilibili.com/video/BV12o4y197US)
 
-## Usage in Finance
+### Quantitative Finance
 
-- Books
-  - [Deep Learning for Finance](pdf/_index/Deep_Learning_for_Finance.pdf)
-  - [Machine Learning for Algorithmic Trading](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original)
-- Papers
+- [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
+- [Deep Learning for Finance](pdf/_index/Deep_Learning_for_Finance.pdf)
+- [Machine Learning for Algorithmic Trading](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original)
+
+## Applications
+
+### P Quant
+
+- Factor Investing
   - DFQ
+
+### Q Quant
+
+- Derivatives Pricing
 
 ## References
 
